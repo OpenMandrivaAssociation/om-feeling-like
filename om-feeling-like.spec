@@ -8,6 +8,8 @@ License: GPLv3
 BuildRequires: cmake ninja
 BuildRequires: cmake(Qt5Core)
 BuildRequires: cmake(Qt5Widgets)
+# Only for the cmake_kde5 rpm macro
+BuildRequires: cmake(ECM)
 Requires: qt5-qttools-qtdbus
 Requires: distro-plasma-config
 
