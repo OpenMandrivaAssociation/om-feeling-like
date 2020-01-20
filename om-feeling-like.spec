@@ -1,6 +1,6 @@
 Summary: Desktop preset selection tool
 Name: om-feeling-like
-Version: 0.1.6
+Version: 0.1.8
 Release: 1
 Url: http://openmandriva.org/
 Source0: https://github.com/OpenMandrivaSoftware/om-feeling-like/archive/%{version}/%{name}-%{version}.tar.gz
